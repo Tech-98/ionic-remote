@@ -1,0 +1,7 @@
+{
+  "name": "ionic-http-request-sample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
