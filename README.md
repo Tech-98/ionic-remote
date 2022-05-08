@@ -1,3 +1,12 @@
-# Ionic HTTP request sample
+# API hosted on linode VM
 
-[Poké API](https://pokeapi.co/) HTTP request using [Angular HttpClient](https://angular.io/guide/http) and [Ionic HTTP native plugin](https://ionicframework.com/docs/native/http)
+# ionic webapp hosted on AWS
+
+# steps
+npm install
+ionic serve
+
+# public domain link
+
+http://remoteaccess.astech.ga
+
